@@ -1,2 +1,4 @@
 # hello_world
-for learning purpose only
+for learning purpose only.
+
+Just fooling around.
